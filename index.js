@@ -31,4 +31,4 @@ function funkyFunction() {
       return subFunction;
 }
 
-var theFunk = funkyFunction()();
+var theFunk = funkyFunction()()
