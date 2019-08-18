@@ -32,4 +32,4 @@ function funkyFunction() {
 }
 
 var theFunk = funkyFunction()();
-window.theFunk();
+
